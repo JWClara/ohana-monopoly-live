@@ -1,6 +1,6 @@
 # Ohana Monopoly — Live Game Board + Admin Console
 
-This package contains a real browser-based event game for six teams.
+This package contains a real browser-based event game for eight teams.
 
 There are only two spaces:
 
